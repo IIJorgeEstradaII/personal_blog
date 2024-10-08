@@ -35,5 +35,5 @@
 /config/master.key
 
 #Ignore DB credentials
-/config/database.yml
+.env
 
